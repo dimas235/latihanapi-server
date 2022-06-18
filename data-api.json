@@ -1,0 +1,14 @@
+[
+    {
+        "id": "2",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/hutan.jpg",
+        "judul": "hutan",
+        "deskripsi": "ikine ana ning hutan "
+    },
+    {
+        "id": "3",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/editan sawah.jpg",
+        "judul": "sawah",
+        "deskripsi": "wah wah wah"
+    }
+]
